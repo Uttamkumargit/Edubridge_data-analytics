@@ -1,0 +1,4 @@
+# EDA PROJECT ON KAGGLE WORLD'S ALCOHAL CONSUMPTION DATASET
+ PROJECT LINK:- 
+  https://www.kaggle.com/uttam122/notebookfd58a97a20
+ 
