@@ -1,0 +1,10 @@
+group,y,x
+category1,63,0.956545365
+category1,77,-1.65455465
+category1,45,0.023564788
+category1,72,-0.87965412
+category1,67,-1.23564867
+category1,58,-0.46784864
+category1,68,-1.36201568
+category1,65,-0.25448678
+
