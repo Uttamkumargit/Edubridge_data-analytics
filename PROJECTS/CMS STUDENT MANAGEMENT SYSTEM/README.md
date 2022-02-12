@@ -1,2 +1,9 @@
 # Student Management System
+Student Management System project is written in Python. The project file contains a python script (student.py). This is a simple console based system which is very easy to understand and use. Talking about the system, it contains basic functions which include Add students, view students, search students,update the student, remove the student, and exit. 
+In this mini project, there is no such login system. This means he/she can use all those available features easily without any restriction. It is too easy to use, he/she can check the total student’s record.
+
+While adding the students, the user only has to enter his/her name then the system adds the record and displays to the user. And the user can view all these students lists from the view section. In this Student Management System, the user can also search for student’s name in order to know whether the student’s record exists in the system or not. 
+This simple console based Student Management system provides the simplest management of student’s list.  There is external csv file used in this mini project to save user’s data permanently.
+
+In order to run the project, you must have installed Python, on your PC. This is a simple Console Based system, specially written for the beginners..
  
