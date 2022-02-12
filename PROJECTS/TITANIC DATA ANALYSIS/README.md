@@ -1,11 +1,10 @@
 # Titanic Data Analysis in Python:
 
-#Titanic Dataset –
 
 It is one of the most popular datasets used for understanding machine learning basics. It contains information of all the passengers aboard the RMS Titanic,
  which unfortunately was shipwrecked. This dataset can be used to predict whether a given passenger survived or not.
 
-#Features: The titanic dataset has roughly the following types of features:
+# Features: The titanic dataset has roughly the following types of features:
 
 1.Categorical/Nominal: Variables that can be divided into multiple categories but having no order or priority.
                     Eg. Embarked (C = Cherbourg; Q = Queenstown; S = Southampton)
@@ -19,6 +18,6 @@ It is one of the most popular datasets used for understanding machine learning b
                     Eg. SibSp, Parch
 6.Useless: They don’t contribute to the final outcome of an ML model. Here, PassengerId, Name, Cabin and Ticket might fall into this category. 
  
-#Conclusion:
+# Conclusion:
 
 In In the train data, 61% of passengers not survived, and only 38% of passengers survived. Most of the passengers died in the titanic.(i.e. Maximum number of Male are not Survived.)

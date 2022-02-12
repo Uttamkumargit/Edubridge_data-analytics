@@ -5,7 +5,7 @@ Data is disaggregated by country (and sometimes subregion). Coronavirus disease 
 On March 11 2020, the World Health Organization (WHO) declared it a pandemic, pointing to the over 118,000 cases of the Coronavirus illness in over 110 countries and territories around the world at the time.
 
 
-#Summary:
+# Summary:
 
 1.The Analysis of the World Covid Cases Statistics Depicts that the Major Confirmed, Active, Recovered, Deaths Cases are
 in Us ,Brazil ,india and in South Africa and about 20% of Cases are belong to these Major Coutries.

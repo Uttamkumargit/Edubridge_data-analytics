@@ -6,7 +6,7 @@ On March 11 2020, the World Health Organization (WHO) declared it a pandemic, po
 
 In this Dashboard, We can also see the Total confirmed cases, new cases, new deaths, new recoveries particular country.
 
-#Summary:
+# Summary:
 
 1.The Analysis of the World Covid Cases Statistics Depicts that the Major Confirmed, Active, Recovered, Deaths Cases are
 in Us ,Brazil ,india and in South Africa and about 20% of Cases are belong to these Major Coutries.
