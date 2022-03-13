@@ -1,4 +1,4 @@
-# Global Terrorism Dashboard
+# Analysis on Global Terrorism using Excel Dashboard
 
 # Define Terrorism:
 
