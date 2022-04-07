@@ -1,6 +1,6 @@
 # BOSTON HOUSE PRICE DATASET 
 
-## [Dataset Information]
+[Dataset Information]
 Boston House Price Dataset was collected in 1987 and has 506 entries with 14 attributes.
 
  <span style="color:red"><b>Boston House Price Dataset Attributes Information :</b></span>
