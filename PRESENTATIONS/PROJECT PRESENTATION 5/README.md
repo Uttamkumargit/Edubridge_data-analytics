@@ -1,6 +1,6 @@
 # BOSTON HOUSE PRICE DATASET 
 
-## Dataset Information
+## [Dataset Information]
 Boston House Price Dataset was collected in 1987 and has 506 entries with 14 attributes.
 
  <span style="color:red"><b>Boston House Price Dataset Attributes Information :</b></span>
@@ -17,5 +17,7 @@ Boston House Price Dataset was collected in 1987 and has 506 entries with 14 att
   - PTRATIO: Pupil-teacher ratio by town
   - B: 1000(Bk — 0.63)², where Bk is the proportion of [people of African American descent] by town
   - LSTAT: Percentage of lower status of the population
-  - MEDV: Median value of owner-occupied homes in $1000s 
+  - MEDV: Median value of owner-occupied homes in $1000s
+
+ 
 
