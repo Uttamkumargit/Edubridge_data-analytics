@@ -19,7 +19,10 @@ Boston House Price Dataset was collected in 1987 and has 506 entries with 14 att
   - LSTAT: Percentage of lower status of the population
   - MEDV: Median value of owner-occupied homes in $1000s
 
-## We have to perform Exploratory Data Analysis (EDA), Machine learning (Basic) operation, and create a Dashboard using Python
+ <b> We have to perform </b>
+  - Exploratory Data Analysis (EDA),
+  - Machine learning (Basic) operation, and
+  - create a Dashboard using Python.
 
  
 
